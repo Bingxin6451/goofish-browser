@@ -1,0 +1,6 @@
+# 凭据与状态——绝不入库
+cookies.json
+*.jsonl
+qr.png
+__pycache__/
+.xy-browser/
